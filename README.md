@@ -1,7 +1,7 @@
 
 ***
 
-# Seanpm2001 Linguisitcs
+# Seanpm2001 Linguistics
 
 This is a portal for my human-language linguistic projects. For programming linguistic projects, refer to [:octocat: `Learn`](https://github.com/seanpm2001/Learn/) or [:octocat: `SNU 2D Programming Tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/)
 
@@ -14,6 +14,6 @@ This is a portal for my human-language linguistic projects. For programming ling
 
 ***
 
-**File version:** `1 (2023, Sunday, March 5th at 5:45 pm PST)`
+**File version:** `2 (2023, Sunday, March 5th at 8:29 pm PST)`
 
 ***
